@@ -20,20 +20,6 @@ Este projeto foi criado para atender aos seguintes requisitos técnicos e de fun
 * **CSS3:** Estilização moderna (incluindo Flexbox, Variáveis CSS e Google Fonts).
 * **JavaScript (ES6+):** Lógica da aplicação, manipulação do DOM e modularização (usando `import`/`export`).
 
-## 📁 Estrutura de Pastas
-
-O projeto está organizado da seguinte forma para garantir a separação de responsabilidades:
-
-/innovate-tech-spa/
-├── index.html         # Arquivo HTML principal (casca da SPA)
-├── /css/
-│   └── style.css      # Folha de estilos principal
-└── /js/
-    ├── app.js         # Arquivo principal (roteador e inicializador)
-    └── /modules/
-        ├── templates.js   # Módulo com os templates HTML das páginas
-        └── validation.js  # Módulo com a lógica de validação do formulário
-
 
 ## ⚙️ Como Executar o Projeto
 
